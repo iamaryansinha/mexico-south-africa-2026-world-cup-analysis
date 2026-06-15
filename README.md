@@ -10,6 +10,7 @@ This repository hosts detailed tactical analyses of matches from the 2026 FIFA W
 | **South Korea vs Czechia** | 11 June 2026 | Estadio Akron, Guadalajara | 2-1 | [Read analysis →](south-korea-vs-czechia-analysis.md) |
 | **Canada vs Bosnia and Herzegovina** | 12 June 2026 | BMO Field, Toronto | 1-1 | [Read analysis →](canada-vs-bosnia-analysis.md) |
 | **Brazil vs Morocco** | 13 June 2026 | MetLife Stadium, East Rutherford, NJ | 1-1 | [Read analysis →](brazil-vs-morocco-analysis.md) |
+| **Netherlands vs Japan** | 14 June 2026 | AT&T Stadium, Arlington/Dallas | 2-2 | [Read analysis →](netherlands-vs-japan-analysis.md) |
 
 ## What You’ll Find in Each Analysis
 
